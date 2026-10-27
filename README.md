@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Arda
+# 👋 Merhaba, ben Yakuza
 
 💻 **Software Developer | Full-Stack Developer | Cybersecurity Enthusiast**
 
@@ -14,7 +14,7 @@ Belirli bir teknolojiye bağlı kalmadan **web, backend, otomasyon, yapay zeka, 
 
 🇹🇷 **Türkçe**
 
-Ben Arda, internette ve yazılım dünyasında genellikle **Ardacan** ismini kullanıyorum.
+Ben Yakuza, internette ve yazılım dünyasında genellikle **Yakuzacan** ismini kullanıyorum.
 
 Yazılımın farklı alanlarıyla ilgileniyorum. Web uygulamalarından otomasyon sistemlerine, Python araçlarından siber güvenliğe kadar farklı projeler geliştiriyorum.
 
@@ -24,7 +24,7 @@ Kod yazmayı sadece bir meslek olarak değil, sürekli geliştirdiğim bir becer
 
 🇬🇧 **English**
 
-I'm Arda, also known online as **Ardacan**.
+I'm Yakuza, also known online as **Yakuzacan**.
 
 I'm a software developer interested in many areas of software engineering, including web development, backend systems, automation, artificial intelligence, cybersecurity and developer tools.
 
